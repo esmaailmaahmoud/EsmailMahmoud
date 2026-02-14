@@ -1,4 +1,3 @@
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqZnJ1cHhlaDA3c25rc3k0MDZ1djlqd2lobGF4MzlqdmloNnBiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif
 
 # 👋 Hi, I'm Esmaail Mahmoud
 
@@ -22,37 +21,24 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 # 🛠 Technical Skills
 
-## 🔷 Business Intelligence
-
-* **Power BI (Advanced)**
-  DAX | Data Modeling (Star Schema) | ETL | Drill-through | Drill-down | What-if Analysis | Cohort Analysis
-
-* **Tableau (Intermediate)**
-  Interactive Dashboards | Calculated Fields | Filters | Data Storytelling
-
-* **Advanced Excel**
-  Pivot Tables | Advanced Formulas | Conditional Formatting | Dashboarding
-
----
-
-## 🔷 Data & Programming
-
-* **SQL**
-  SELECT | Joins | Aggregations | Subqueries | Views
-
-* **Python (Basic to Intermediate)**
-  Data Cleaning | Exploratory Data Analysis | Basic Visualization
-
----
-
-## 🔷 Analytical & Business Skills
-
-* Descriptive Statistics
-* KPI Development
-* HR Metrics & Workforce Analytics
-* Business Fundamentals
-* Data-Driven Decision Support
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Tableau <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/8de63a6b-33bc-4e70-bb45-fb954eb28610" />
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 # 📂 Portfolio Projects
