@@ -6,7 +6,7 @@
 📊 Turning Workforce & Business Data into Strategic Insights
 
 ---
-(https://github.com/esmaailmaahmoud/EsmaailMaahmoud/blob/main/giphy%20(7).gif)
+![Data Analysis](https://github.com/esmaailmaahmoud/EsmaailMaahmoud/blob/main/giphy%20(7).gif)
 ## 🚀 About Me
 
 Data Analyst with strong expertise in **Power BI, SQL, and Advanced Excel**, backed by hands-on experience as an HR Supervisor.
