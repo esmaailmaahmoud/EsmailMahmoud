@@ -1,3 +1,5 @@
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqZnJ1cHhlaDA3c25rc3k0MDZ1djlqd2lobGF4MzlqdmloNnBiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif
+
 # 👋 Hi, I'm Esmaail Mahmoud
 
 ## **HR Supervisor | Data Analyst | HR & Business Analytics**
